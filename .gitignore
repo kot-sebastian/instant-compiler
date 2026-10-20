@@ -1,0 +1,9 @@
+dist-newstyle/
+.bnfc-out/
+/insc_jvm
+/insc_llvm
+*.j
+*.class
+*.ll
+*.bc
+!lib/runtime.bc
