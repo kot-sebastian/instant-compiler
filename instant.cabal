@@ -10,6 +10,7 @@ category:           Compiler
 build-type:         Simple
 tested-with:        GHC == 9.12.4
 extra-source-files: README.md
+                    README.pl.md
                     src/Instant.cf
 data-files:         lib/jasmin.jar
                     lib/runtime.bc
